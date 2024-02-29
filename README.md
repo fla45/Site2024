@@ -7,11 +7,11 @@
     <title></title>
 </head>
 <body>
-    <h1> LISTAS DE ATIVIDADES NA SEMANA</h1>
+    <h1> LISTA DA ROTINA DE SEGUNDA A SEXTA </h1>
     <hr>
-    <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 30/02</p>
+    <p> Aqui estou mostrando com será a minha rotina de segunda a sexta. </p>
     <!--
-    <img src="NEWTON1.jpg" alt="logo do newton">
+    <img src="rotina.jpg" alt="logo do newton">
     -->
     <ol start="2">
         <li>Segunda-feira</li>
