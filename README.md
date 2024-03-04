@@ -7,9 +7,9 @@
     <title></title>
 </head>
 <body>
-    <h1> LISTA DA ROTINA DE SEGUNDA A SEXTA </h1>
+    <h1> MIRACULOUS: as aventuras de ladybug </h1>
     <hr>
-    <p> Aqui estou mostrando com será a minha rotina de segunda a sexta. </p>
+    <p> Aqui falaremos um pouco sobre a serie, de grande prestígio, as aventuras de lad </p>
     <!--
     <img src="rotina.jpg" alt="logo do newton">
     -->
